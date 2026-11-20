@@ -96,4 +96,15 @@ export const projects: Project[] = [
     description: 'A business platform bringing sales, receipts, stock, and payments into one experience.',
     accent: 'forest',
   },
+  {
+    slug: 'carecircle',
+    name: 'CareCircle',
+    url: 'https://carecircle.com.ng/',
+    domain: 'carecircle.com.ng',
+    category: 'CARE COORDINATION PLATFORM',
+    description: 'A home-care coordination workspace for tracking medications, appointments, care tasks, team contacts, and handover notes.',
+    screenshot: '/projects/carecircle.webp',
+    screenshotAlt: 'CareCircle sample dashboard with fictional care data, medication tracking, appointments, and care tasks',
+    accent: 'forest',
+  },
 ];
